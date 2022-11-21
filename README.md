@@ -16,5 +16,5 @@ How To Run
 
 
 
-* Notes
-I try for filtering by Menu Clothing but it doesn't work because the element locator of item not found if filter activated.
+# Notes
+* I try for filtering by Menu Clothing but it doesn't work because the element locator of item not found if filter activated.
